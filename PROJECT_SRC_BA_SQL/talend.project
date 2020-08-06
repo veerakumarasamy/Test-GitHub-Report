@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_61SScdybEeirkdeuebk--g" label="PROJECT_SRC_BA_SQL" language="java" technicalLabel="PROJECT_SRC_BA_SQL" author="_61SSctybEeirkdeuebk--g" productVersion="Talend Cloud Real-Time Big Data Platform-7.1.1.20190304_0427-patch" url="{&quot;location&quot;:&quot;https://dev-git.ppdi.com/r/REPO_SRC_BA_SQL.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_kkOwoF_AEemg1uCgoOnMcQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_61SSctybEeirkdeuebk--g" login="viswavardhan.gade@ppdi.com" firstName="Viswavardhan" lastName="Gade" type="DQ"/>
+  <TalendProperties:User xmi:id="_7v3EU9ybEeirkdeuebk--g" login="tom.piotrowicz@ppdi.com" firstName="Tom" lastName="Piotrowicz" type="DQ"/>
+  <TalendProperties:User xmi:id="_lhmgIdygEeiJZNS-fet-LQ" login="sandi.lilley@ppdi.com" firstName="Sandi" lastName="Lilley" type="DQ"/>
+  <TalendProperties:User xmi:id="_lhmgItygEeiJZNS-fet-LQ" login="vamshi.sridharla@ppdi.com" firstName="Vamshi" lastName="Sridharla" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG00V_AEemg1uCgoOnMcQ" login="ssamantaray@ppdi.com" firstName="Sujit" lastName="samantaray" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG00l_AEemg1uCgoOnMcQ" login="anish.jogiya@ppdi.com" firstName="Anish" lastName="Jogiya" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG001_AEemg1uCgoOnMcQ" login="dilyana.donkova@ppdi.com" firstName="Dilyana" lastName="Donkova" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG01F_AEemg1uCgoOnMcQ" login="stanislav.dimov@ppdi.com" firstName="Stanislav" lastName="Dimov" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG01V_AEemg1uCgoOnMcQ" login="vatsalya.karimireddy@ppdi.com" firstName="Vatsalya" lastName="Karimireddy" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG01l_AEemg1uCgoOnMcQ" login="pbanerjee@ppdi.com" firstName="Pranab" lastName="banarjee" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG011_AEemg1uCgoOnMcQ" login="petya.dimitrova2@ppdi.com" firstName="Petya" lastName="Dimitrova" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG02F_AEemg1uCgoOnMcQ" login="pablo.cnappi@ppdi.com" firstName="Pablo" lastName="Cnappi" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG02V_AEemg1uCgoOnMcQ" login="prashanthi.nallan@ppdi.com" firstName="Prashanthi" lastName="Nallan" type="DQ"/>
+  <TalendProperties:User xmi:id="_kkG02l_AEemg1uCgoOnMcQ" login="keerthana.kalashika@ppdi.com" firstName="Keerthana" lastName="Kalashika" type="DQ"/>
+  <TalendProperties:User xmi:id="_J8Mtvht0EeqNXPRRPkijQQ" login="thrivikram.lekkala@ppdi.com" firstName="Thrivikram" lastName="Lekkala" type="DQ"/>
+  <TalendProperties:User xmi:id="_J8Mtvxt0EeqNXPRRPkijQQ" login="abhinaikumar.vulupala@ppdi.com" firstName="AbhinaiKumar" lastName="Vulupala" type="DQ"/>
+  <TalendProperties:User xmi:id="_J8MtwBt0EeqNXPRRPkijQQ" login="celina.marino@ppdi.com" firstName="Celina" lastName="Marino" type="DQ"/>
+  <TalendProperties:User xmi:id="_J8MtwRt0EeqNXPRRPkijQQ" login="sreechakradhar.madugula@ppdi.com" firstName="sreechakradhar" lastName="madugula" type="DQ"/>
+  <TalendProperties:User xmi:id="_J8Mtwht0EeqNXPRRPkijQQ" login="amarnadh.ravipati@ppdi.com" firstName="Amarnadh" lastName="Ravipati" type="DQ"/>
+</xmi:XMI>
